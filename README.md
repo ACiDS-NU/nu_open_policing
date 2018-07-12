@@ -1,5 +1,5 @@
 # nu_openpolicing <br>
-This is a repo for a hyper-local analysis of [Stanford's Open Policing](https://openpolicing.stanford.edu/) data applied to Evanston, IL.
+Hyper-local analysis of [Stanford's Open Policing](https://openpolicing.stanford.edu/) data applied to Evanston, IL.
 ## Data <br>
 General data from IL is from 2004-2015--a HUGE, very complete dataset. <br>
 It is available as a .tar.gz [here](https://stacks.stanford.edu/file/druid:py883nd2578/IL-clean.csv.gz) or as a .zip [here](https://northwestern.box.com/s/ea7puk3405w32f9h4rvaswl48qx4ktrf) (NU Box folder/file). <br>
