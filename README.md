@@ -7,7 +7,7 @@ There is also [Census data](https://stacks.stanford.edu/file/druid:py883nd2578/c
 ## Approach <br>
 There are at least two initial thrusts to analysis: <br>
 (1) 'Port' the [R code](https://github.com/5harad/openpolicing/blob/master/src/recreate_results_in_paper.R) used in the [working paper](https://northwestern.box.com/s/ea7puk3405w32f9h4rvaswl48qx4ktrf) from Stanford to Python <br>
-(2) Filter the data to focus on Evanston or Chicago <br>
+(2) Filter the data to focus on IL or Chicago (or Evanston) <br>
 Ideally, (1), could be done separately from (2), and then the methods from (1) can be reapplied to (2). <br>
 Logically, we will try to mimic the the file structure from Stanford's [github](https://github.com/5harad/openpolicing) for the national project <br> 
 ## Goal <br>
