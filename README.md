@@ -5,7 +5,7 @@ Stanford's Open Policing (SOP) data from IL is from 2004-2015--a HUGE, very comp
 It is available as a .tar.gz [here](https://stacks.stanford.edu/file/druid:py883nd2578/IL-clean.csv.gz) or as a .zip [here](https://northwestern.box.com/s/ea7puk3405w32f9h4rvaswl48qx4ktrf) (NU Box folder/file). <br>
 There is also [Census data](https://stacks.stanford.edu/file/druid:py883nd2578/census-clean.csv.gz) and [Polic Public Contact Survey data](https://stacks.stanford.edu/file/druid:py883nd2578/ppcs.tsv).
 ## Goal <br>
-(A) Examining what factors affect if a driver in Illinois has their car searched for contraband
+(A) Examining what factors affect if a driver in Illinois has their car searched for contraband <br>
 (B) Build some nice visualizations of the data to make some statements about potential disparities in traffic policing in IL + Chicago; perhaps push to [Open Data Bits](https://opendatabits.com/about/)?
 ## Approach <br>
 For (A), some preliminary analysis has already been done in an iPython notebook<br>
