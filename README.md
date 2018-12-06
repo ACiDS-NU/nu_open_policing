@@ -1,5 +1,5 @@
 # nu_openpolicing <br>
-Exploring and visualizing  bias in policing Illinois ; initial data based on [Stanford's Open Policing](https://openpolicing.stanford.edu/); we are also looking at exploring/analyzing Invisible Institute's Chicago [Citizen's Police Data](https://github.com/invinst/chicago-police-data), but, at first glance, this is somehwat more segmented (and will need to be unified?)
+Exploring and visualizing  bias in policing Illinois ; initial data based on [Stanford's Open Policing](https://openpolicing.stanford.edu/); we are also looking at exploring/analyzing Invisible Institute's Chicago [Citizen's Police Data](https://github.com/invinst/chicago-police-data), but, at first glance, this is somewhat more segmented (and will need to be unified?)
 ## Data <br>
 Stanford's Open Policing (SOP) data from IL is from 2004-2015--a HUGE, very complete dataset. <br>
 It is available as a .tar.gz [here](https://stacks.stanford.edu/file/druid:py883nd2578/IL-clean.csv.gz) or as a .zip [here](https://northwestern.box.com/s/ea7puk3405w32f9h4rvaswl48qx4ktrf) (NU Box folder/file). <br>
