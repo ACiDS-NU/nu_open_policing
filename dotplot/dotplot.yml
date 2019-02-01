@@ -133,5 +133,4 @@ dependencies:
     - cufflinks==0.13.0
     - pdvega==0.1
     - vega3==0.13.0
-prefix: /home/monadnoc/miniconda3/envs/dotplot
 
